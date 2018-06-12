@@ -6,5 +6,6 @@ Files available are:<br>
   2) PlanAhead Generated Physical constraints <br>
   3) Test bench code to test a few sample example <br>
   4) Main binary file(.bit) that is then flashed onto board for Demo <br>
-  5) Pictures of the main schematic and waveforms <br> <br>
+  5) Pictures of the main schematic and waveforms <br> 
+  6) Module that demostrates architectural functionality of a seven segment display <br> <br>
   _Note that all labs are required to have an example test bench and waveforms to display theoretical sucess along with a demo to demonstrate actaul success_
